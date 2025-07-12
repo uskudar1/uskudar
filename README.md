@@ -1,4 +1,29 @@
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+# 🎃 Üsküdar Escort – Hızlı, Güvenli ve Gizli Hizmetler 🍎
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+[![TIKLA SİTEYE GİT](kiz.png)](https://pezevenkdayi.xyz)
+
+---
+
+## Hakkımızda
+
+Üsküdar bölgesinde özel tanışmalar, güvenli iletişim ve kaliteli vakit geçirmek isteyenler için hizmet veriyoruz. Tüm süreçlerde gizliliğe ve karşılıklı güvene öncelik veriyoruz.
+
+### Neler Sunuyoruz:
+
+- 🔒 %100 gizlilik garantisi  
+- 👥 Yetişkinler için özel görüşmeler  
+- 🏨 Otel veya özel adres seçeneği  
+- 🌐 Türkçe, İngilizce, Arapça dil desteği
+
+---
+
+## İletişim
+
+📱 [WhatsApp ile doğrudan iletişim kurun](https://t.me/alvannis)
+
+---
+
+## Hızlı Bağlantılar
+
+- 🔗 [Bilgilendirme ve S.S.S.](https://t.me/alvannis)  
+- 🗣️ [Destek ve sorular için yazın](https://t.me/alvannis)
